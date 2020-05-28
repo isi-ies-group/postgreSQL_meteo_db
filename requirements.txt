@@ -1,0 +1,8 @@
+
+# class_geonica_file.py: 9
+# class_helios_file.py: 9
+# main_db.py: 6
+psycopg2 == 2.8.4
+
+# class_helios_file.py: 7
+pytz == 2019.3
