@@ -2,5 +2,5 @@
 2) Install pyinstaller -> "pip install pyinstaller" | "conda install -c conda-forge pyinstaller"
 3) Open a terminal window and navigate to the folder that contains the script you want to create an executable from.
 4) Run "pyinstaller --onefile --icon={path_to_icon}.ico main_db.py"
-5) Your executable will be created in the "build" folder.
+5) Your executable will be created in the "dist" folder.
 6) Run "db_scheduler.bat" in order to create a task that executes the program every 5 minutes.
